@@ -3,4 +3,5 @@ KDRAMA :
   - Hotel Del Luna
   
 MOVIE
-  
+  - Kadet 1947
+  - 6 Underground
