@@ -2,6 +2,5 @@ KDRAMA :
   - Do You Like Brahms
   - Hotel Del Luna
   
-MOVIE
-  - Kadet 1947
-  - 6 Underground
+MOVIE :
+  -Pengabdi Setan
